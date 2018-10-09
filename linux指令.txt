@@ -1,0 +1,19 @@
+创建文件夹指令：mkdir（空格）+文件夹名+enter；
+rm -rf +文件夹名+enter；
+rm -rf/* 删库！
+touch 创建文件
+touch test.html
+rm -rf +test.html+enter
+
+进入文件夹：cd
+mkdir test——cd test/
+cd..回退一个文件夹
+
+vim +test.txt+enter
+输入i ----进入插入模式
+esc切换模式 ：wq +enter  保存并退出mk
+
+ctrl +c+c 强制终止任意运行的程序·
+
+ls 查看当前目录下所有文件
+ls -a  查看所有文件包括隐藏文件；
